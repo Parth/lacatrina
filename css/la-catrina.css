@@ -1,4 +1,22 @@
 
+/*.grid-item {
+	width: 33.33%;
+}
+.grid-item-width2 {
+	width: 66.66%;
+}*/
+.grid-item img {
+	width: 100%
+}
+
+.masonry img {
+	width: 100%;
+	height: 100% !important;
+}
+.masonry div {
+	margin: 0;
+}
+
 .map-outer {
 	max-width: 1000px !important;
 	max-height: 650px !important;

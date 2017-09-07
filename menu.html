@@ -1,49 +1,133 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css"/>
+		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
 		<title>La Catrina - Menu</title>
 	</head>
 	<body>
+		<nav>
+			<div class="nav-wrapper">
+				<a href="#" class="brand-logo">La Catrina</a>
+				<ul id="nav-mobile" class="right hide-on-med-and-down">
+					<li><a href="/">Home</a></li>
+					<li><a href="/menu.html">Menu</a></li>
+					<li><a href="/location.html">Location</a></li>
+					<li><a href="#">Order</a></li>
+				</ul>
+			</div>
+		</nav>
+
 		<div class="container">
 			<div class="row">
 				<h1>La Catrina - Menu</h1>
-				<div class="col s12 m6">
-					<div class="card horizontal">
-						<div class="card-image">
-							<img src="/img/placeholder-256x256.png">
-						</div>
-						<div class="card-stacked">
-							<div class="card-content">
-								<h3 class="header">Menu Item</h3>
-								<p>I am a very simple card. I am good at containing small bits of information.</p>
-							</div>
-							<div class="card-action">
-								<a href="#">Order</a>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col s12 m6">
-					<div class="card horizontal">
-						<div class="card-image">
-							<img src="/img/placeholder-256x256.png">
-						</div>
-						<div class="card-stacked">
-							<div class="card-content">
-								<h3 class="header">Menu Item</h3>
-								<p>I am a very simple card. I am good at containing small bits of information.</p>
-							</div>
-							<div class="card-action">
-								<a href="#">Order</a>
-							</div>
-						</div>
-					</div>
-				</div>
+				<div class="divider"></div>
 			</div>
+
+			<div class="row">
+				<h3>The Classics</h3>
+				<ul class="collection">
+					<li class="collection-item avatar">
+						<div class="row">
+							<div class="col s12 m8">
+								<img src="/img/placeholder-256x256.png" alt="" class="circle">
+								<b class="title">Tacos</b>
+								<p>Choice of meat(s). Served with homemade tortillas with onions, cilantro, and slices of radishes. Limes and a grilled jalapeno and spring onions on the side.</p>
+							</div>
+							<div class="col s12 m4 right-align">
+								<p>1 pc $2.50</p>
+								<p>3 pc $7.00</p><br/>
+								<a href="#!" class="waves-effect waves-light btn valign-wrapper">Order <i class="material-icons">open_in_new</i></a>
+							</div>
+						</div>
+					</li>
+					<li class="collection-item avatar">
+						<div class="row">
+							<div class="col s12 m8">
+								<img src="/img/placeholder-256x256.png" alt="" class="circle">
+								<b class="title">Burritos</b>
+								<p>Choice of meat. Mexican rice and refried beans wrapped in a flour tortilla. Served with shredded lettuce, tomato, sour cream and queso fresco on top.</p>
+							</div>
+							<div class="col s12 m4 right-align">
+								<p>$6.95</p><br/>
+								<a href="#!" class="waves-effect waves-light btn">Order</a>
+							</div>
+						</div>
+					</li>
+					<li class="collection-item avatar">
+						<div class="row">
+							<div class="col s12 m8">
+								<img src="/img/placeholder-256x256.png" alt="" class="circle">
+								<b class="title">Chimichangas</b>
+								<p>Choice of meat, Mexican rice and refried beans wrapped in a flour tortilla and fried. Served with shredded lettuce, tomato, sour cream and queso fresco on top.</p>
+							</div>
+							<div class="col s12 m4 right-align">
+								<p>$6.95</p><br/>
+								<a href="#!" class="waves-effect waves-light btn">Order</a>
+							</div>
+						</div>
+					</li>
+				</ul>
+			</div>
+
+			<!--<div class="row">
+				<h3>The Classics</h3>
+				<div class="col s12 m12">
+					<div class="card horizontal">
+						<div class="card-image">
+							<img src="/img/placeholder-256x256.png">
+						</div>
+						<div class="card-stacked">
+							<div class="card-content">
+								<h5 class="header">Tacos</h5>
+								<p>Choice of meat(s). Served with homemade tortillas with onions, cilantro, and slices of radishes. Limes and a grilled jalapeno and spring onions on the side.</p>
+								<br/>
+								<p>1 pc $2.50</p>
+								<p>1 pc $2.50</p>
+							</div>
+							<div class="card-action">
+								<a href="#">Order</a>
+							</div>
+						</div>
+					</div>
+
+					<div class="card horizontal">
+						<div class="card-image">
+							<img src="/img/placeholder-256x256.png">
+						</div>
+						<div class="card-stacked">
+							<div class="card-content">
+								<h3 class="header">Burritos</h3>
+								<p>I am a very simple card. I am good at containing small bits of information.</p>
+							</div>
+							<div class="card-action">
+								<a href="#">Order</a>
+							</div>
+						</div>
+					</div>
+
+					<div class="card horizontal">
+						<div class="card-image">
+							<img src="/img/placeholder-256x256.png">
+						</div>
+						<div class="card-stacked">
+							<div class="card-content">
+								<h3 class="header">Chimichangas</h3>
+								<p>I am a very simple card. I am good at containing small bits of information.</p>
+							</div>
+							<div class="card-action">
+								<a href="#">Order</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>-->
 		</div>
 
+		<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
 	</body>
 </html>
