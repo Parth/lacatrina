@@ -1,0 +1,199 @@
+
+{
+	"classics": {
+		"title": "Comidas Tipicas (The Classics)",
+		"items": [
+			{
+				"item": "Tacos",
+				"desc": "Fresh made corn tortillas filled with choice of meat, cilantro and onions",
+				"img": "tacos.jpg",
+				"price": [ "1 @ $2.50", "3 @ $7" ]
+			},
+			{
+				"item": "Chalupas",
+				"desc": "Crisp corn tortillas topped with choice of meat, choice of salsa, onions, sour cream, queso fresco and cilantro",
+				"img": "tacos.jpg",
+				"price": [ "1 @ $2.50", "3 @ $7" ]
+			},
+			{
+				"item": "Taco Placero",
+				"desc": "A fresh made corn tortilla filled with Mexican rice, fried potatoes, grilled onions and jalepenos",
+				"img": "taco-placero.jpg",
+				"price": [ "With meat or egg - $7.45", "With chile relleno - $9.95" ]
+			},
+			{
+				"item": "Quesadilla Azteca",
+				"desc": "Choice of meat, quesillo, lettuce, tomatoes, onions, sour cream, queso fresco and avocado stuffed in a fresh made corn tortilla",
+				"img": "tacos.jpg",
+				"price": [ "$8.45", "Add egg +$1.50" ]
+			},
+			{
+				"item": "Flautas",
+				"desc": "Four rolled up corn tortillas, fried, and topped with sour cream, lettuce, tomatoes, onions, queso fresco and avocado",
+				"img": "tacos.jpg",
+				"price": [ "$7.95" ]
+			},
+			{
+				"item": "Gorditas",
+				"desc": "Two stuffed corn dough mixed with carnitas and filled with choice of meat, lettuce, sour cream and queso fresco",
+				"img": "tacos.jpg",
+				"price": [ "$7.95" ]
+			},
+			{
+				"item": "Tlayuda",
+				"desc": "A large, thin and toasted corn tortilla topped with black beans, quesillo, choice of meat, lettuce, tomatoes, onions, jalepenos and avocado",
+				"img": "tacos.jpg",
+				"price": [ "$11.95" ]
+			},
+			{
+				"item": "Huaraches",
+				"desc": "Two oval shaped corn masa topped with choice of meat, black beans, onions, sour cream, queso fresco and cilantro",
+				"img": "huaraches.jpg",
+				"price": [ "$7.95" ]
+			},
+			{
+				"item": "Torta",
+				"desc": "Mexican sandwich filled with beans, quesillo, lettuce, tomatoes, onions, jalepenos, avocado and mayo",
+				"img": "tacos.jpg",
+				"price": [ "$6.95", "Add french fries +$2" ]
+			},
+			{
+				"item": "Pambazo",
+				"desc": "A torta bread dipped in a red guajillo pepper sauce and filled with potatoes and chorizo, lettuce, sour cream and queso fresco",
+				"img": "tacos.jpg",
+				"price": [ "$6", "Add french fries +$2" ]
+			},
+			{
+				"item": "Quesadilla de Harina",
+				"desc": "Cheese and choice of meat stuffed in a flour tortilla with a side of lettuce, tomatoes, onions, sour cream, queso fresco and avocado",
+				"img": "tacos.jpg",
+				"price": [ "$7.45" ]
+			},
+			{
+				"item": "Burrito",
+				"desc": "Choice of meat, mexican rice, black beans, lettuce, tomatoes, onions, sour cream, queso fresco and avocado",
+				"img": "tacos.jpg",
+				"price": [ "$7.95" ]
+			},
+			{
+				"item": "Chimichanga",
+				"desc": "Fried burrito filled with choice of meat, mexican rice, black beans, lettuce, tomatoes, onions, sour cream, queso fresco and avocado",
+				"img": "tacos.jpg",
+				"price": [ "$8.45" ]
+			},
+			{
+				"item": "Pollo Frito",
+				"desc": "Fried chicken served with french fries and a salad",
+				"img": "tacos.jpg",
+				"price": [ "$9.95" ]
+			},
+			{
+				"item": "Taco Salad",
+				"desc": "Mexican rice, black beans, lettuce, tomatoes, onions, corn, red peppers, cucumbers, chick peas, radishes, mixed in a flour tortilla and topped with choice of meat, sour cream, queso fresco and avocado",
+				"img": "taco-salad.jpg",
+				"price": [ "$8" ]
+			},
+			{
+				"item": "Perros Calientes",
+				"desc": "Mexican styled hot dogs served with mayo, bacon, tomatoes, onions and cilantro",
+				"img": "tacos.jpg",
+				"price": [ "$6" ]
+			},
+			{
+				"item": "Tacos do Maiz",
+				"desc": "Four corn taco shells filled with choice of meat, lettuce, tomatoes, onions, sour cream, queso fresco and avocado",
+				"img": "tacos.jpg",
+				"price": [ "$7.95" ]
+			},
+			{
+				"item": "Fajita",
+				"desc": "Mixed peppers and onions topped with quesillo and served with pico de gallo, sour cream and guacamole",
+				"img": "tacos.jpg",
+				"price": [ "With grilled chicken or steak - $14", "With grilled chicken and steak - $16", "With shrimp - $16", "With all three - $20" ]
+			}
+		]
+	},
+	"sides": {
+		"title": "Ordenes Extras (Sides)",
+		"items": [
+			{
+				"item": "Arroz Mexicano",
+				"desc": "Mexican rice",
+				"img": "tacos.jpg",
+				"price": [ "$2" ]
+			},
+			{
+				"item": "Arroz Blanco",
+				"desc": "White rice",
+				"img": "tacos.jpg",
+				"price": [ "$1.50" ]
+			},
+			{
+				"item": "Frijoles Negros",
+				"desc": "Black beans",
+				"img": "tacos.jpg",
+				"price": [ "$1.50" ]
+			},
+			{
+				"item": "Elote",
+				"desc": "Corn slathered in mayo, queso fresco and chile",
+				"img": "tacos.jpg",
+				"price": [ "$3" ]
+			},
+			{
+				"item": "Aguacate",
+				"desc": "Avocado",
+				"img": "tacos.jpg",
+				"price": [ "$2" ]
+			},
+			{
+				"item": "Papas Fritas",
+				"desc": "French fries",
+				"img": "tacos.jpg",
+				"price": [ "$2" ]
+			},
+			{
+				"item": "Platanos Fritos",
+				"desc": "Fried plantains",
+				"img": "tacos.jpg",
+				"price": [ "$2" ]
+			}
+		]
+	},
+	"desserts": {
+		"title": "Postres (Desserts)",
+		"items": [
+			{
+				"item": "Churros",
+				"desc": "Fried dough pastry",
+				"price": [ "$3" ]
+			},
+			{
+				"item": "Arroz con Leche",
+				"desc": "Rice pudding",
+				"price": [ "$3.50" ]
+			},
+			{
+				"item": "Platanos fritos con Lechera",
+				"desc": "Sweet plantains drizzled with sweetened condensed milk",
+				"price": [ "$2.50" ]
+			},
+			{
+				"item": "Flan",
+				"desc": "Mexican style custard",
+				"price": [ "$3.50" ]
+			},
+			{
+				"item": "Pastel",
+				"desc": "Cake",
+				"price": [ "$3.50" ]
+			},
+			{
+				"item": "Gelatina",
+				"desc": "Jello",
+				"price": [ "$2.50" ]
+			}
+		]
+	}
+}
+
