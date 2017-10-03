@@ -113,6 +113,147 @@
 			}
 		]
 	},
+	"seafood": {
+		"title": "Del Mar (From the Ocean)",
+		"items": [
+			{
+				"item": "Coctel de Camaron",
+				"desc": "Mexican style shrimp cocktail mixed with tomatoes, onions and cilantro",
+				"img": "tacos.jpg",
+				"price": [ "$12" ]
+			},
+			{
+				"item": "Ceviche Peruano",
+				"desc": "Mixture of fish, squid, and shrimp marinated in freshly squeezed lime juice, red onions, cilantro, salt and pepper",
+				"img": "tacos.jpg",
+				"price": [ "$16.95" ]
+			},
+			{
+				"item": "Jalea",
+				"desc": "Fried fish, squid, calamari, and shrimp served with a red onion salad on top",
+				"img": "tacos.jpg",
+				"price": [ "$16.95" ]
+			},
+			{
+				"item": "Arroz con Mariscos",
+				"desc": "Seafood rice mixed with mussels, clams, shrimp, calamari, squid and a crab leg",
+				"img": "tacos.jpg",
+				"price": [ "$20" ]
+			},
+			{
+				"item": "Pescado Entero al Gusto",
+				"desc": "Whole fish, tilipia or red snapper, fried or steamed",
+				"img": "tacos.jpg",
+				"price": [ "$MP" ]
+			}
+		]
+	},
+	"soups_salads": {
+		"title": "Sopas y Ensaladas (Soups and Salads)",
+		"items": [
+			{
+				"item": "Caldo Tlapeno",
+				"desc": "Mexican style chicken soup with mixed rice and vegetables",
+				"img": "tacos.jpg",
+				"price": [ "Small - $5", "Large - $8" ]
+			},
+			{
+				"item": "Sopa de Tortilla",
+				"desc": "Tortilla soup topped with sour cream, quesillo and avocado",
+				"img": "tacos.jpg",
+				"price": [ "Small - $5", "Large - $8" ]
+			},
+			{
+				"item": "Ensalada Catrina",
+				"desc": "Watercress, lettuce, tomatoes, radishes, black beans and corn mixed in a lime and salt dressing and topped with crumbled tortilla chips and queso fresco",
+				"img": "tacos.jpg",
+				"price": [ "$8", "Add grilled chicken or steak +$2" ]
+			},
+			{
+				"item": "Ensalada Verde",
+				"desc": "Lettuce, tomatoes, onions, radishes, green peppers, cucumbers and green apples mixed in a virgin olive oil and salt dressing and topped with avocado slices",
+				"img": "tacos.jpg",
+				"price": [ "$8", "Add grilled chicken or steak +$2" ]
+			},
+			{
+				"item": "Ensalada de Nopales",
+				"desc": "Prickly pear, tomatoes, onions and cilantro mixed in a lime and salt dressing and topped with avocados",
+				"img": "tacos.jpg",
+				"price": [ "$8", "Add grilled chicken or steak +$2" ]
+			}
+		]
+	},
+	"platillos": {
+		"title": "Platillos (Platters)",
+		"items": [
+			{
+				"item": "La Catrina**",
+				"desc": "Platter of grilled steak, shrimp, one tamal and a sope",
+				"img": "tacos.jpg",
+				"price": [ "$17" ]
+			},
+			{
+				"item": "Chicharron de Puerco",
+				"desc": "Fried pork belly served with pico de gallo",
+				"img": "tacos.jpg",
+				"price": [ "$9.95" ]
+			},
+			{
+				"item": "Carne Asada**",
+				"desc": "Thin flank steak",
+				"img": "tacos.jpg",
+				"price": [ "$11.95" ]
+			},
+			{
+				"item": "Mole Oaxaqueno",
+				"desc": "Chicken leg and thigh covered in our house mole sauce",
+				"img": "tacos.jpg",
+				"price": [ "$9.95" ]
+			},
+			{
+				"item": "Chuletas ala Parrilla**",
+				"desc": "Grilled pork chops",
+				"img": "tacos.jpg",
+				"price": [ "$17.50" ]
+			},
+			{
+				"item": "Enchiladas",
+				"desc": "Three rolled up tortillas covered in choice of verde or mole sauce and topped with onions, sour cream, queso fresco and cilantro",
+				"img": "tacos.jpg",
+				"price": [ "$9" ]
+			},
+			{
+				"item": "Molcajete (Serves 3)",
+				"desc": "A combo of grilled steak, chicken, carne enchilada, chorizo, chicharron and shrimp in our salsa ranchera, topped with grilled onions, jalepenos, prickly pear and queso fresco",
+				"img": "tacos.jpg",
+				"price": [ "$30" ]
+			},
+			{
+				"item": "Churrasco**",
+				"desc": "Marinated chuck steak",
+				"img": "tacos.jpg",
+				"price": [ "$17.50" ]
+			},
+			{
+				"item": "Chile Relleno",
+				"desc": "A roasted poblano pepper stuffed with queso fresco, battered in egg, lightly fried and served in a tomato and potato stew",
+				"img": "tacos.jpg",
+				"price": [ "$9.95" ]
+			},
+			{
+				"item": "Carne Enchilada",
+				"desc": "Pork marinated in spices and chillies",
+				"img": "tacos.jpg",
+				"price": [ "$11.95" ]
+			},
+			{
+				"item": "Cecina Rachera",
+				"desc": "Thin cured steak topped with grilled onions and jalepenos, prickly pear and queso fresco",
+				"img": "tacos.jpg",
+				"price": [ "$13.95" ]
+			}
+		]
+	},
 	"sides": {
 		"title": "Ordenes Extras (Sides)",
 		"items": [
@@ -166,31 +307,37 @@
 			{
 				"item": "Churros",
 				"desc": "Fried dough pastry",
+				"img": "tacos.jpg",
 				"price": [ "$3" ]
 			},
 			{
 				"item": "Arroz con Leche",
 				"desc": "Rice pudding",
+				"img": "tacos.jpg",
 				"price": [ "$3.50" ]
 			},
 			{
 				"item": "Platanos fritos con Lechera",
 				"desc": "Sweet plantains drizzled with sweetened condensed milk",
+				"img": "tacos.jpg",
 				"price": [ "$2.50" ]
 			},
 			{
 				"item": "Flan",
 				"desc": "Mexican style custard",
+				"img": "tacos.jpg",
 				"price": [ "$3.50" ]
 			},
 			{
 				"item": "Pastel",
 				"desc": "Cake",
+				"img": "tacos.jpg",
 				"price": [ "$3.50" ]
 			},
 			{
 				"item": "Gelatina",
 				"desc": "Jello",
+				"img": "tacos.jpg",
 				"price": [ "$2.50" ]
 			}
 		]
