@@ -2,8 +2,6 @@ Here are some random thoughts as I run the app.
 
 Let's begin
 
-Out of curiousity, how are you testing? I use python -m SimpleHTTPServer
-
 Okay so main page looks okay, but let's start pulling those placeholder images from our file.
 
 Let's see if it's responsive 
