@@ -412,6 +412,26 @@
 				"price": [ "$2.50" ]
 			}
 		]
+	},
+	"meats": {
+		"title": "Carnes (Meats",
+		"blurb": "For choice of meat, refer to the following list below. Ask about our vegetarian options.",
+		"items": [
+			"Carnes Asada (Diced grilled steak)",
+			"Carnitas (Mexican style pulled pork)",
+			"Pollo (Shredded chicken)",
+			"Tinga de Pollo (Shredded chicken cooked in tomatoes, onions and chipotle chile sauce)",
+			"Pechuga (Grilled chicken) +$2-$4",
+			"Chorizo (Mexican pork sausage )",
+			"Maciza (Lean braised pork)",
+			"Campechanos (Mix of beef and pork)",
+			"Carne Enchilada (Pork marinated with spices and chilies)",
+			"Al Pastor (Carne enchilada with pineapples)",
+			"Suadero (Beef brisket)",
+			"Cueritos (Strips of pig skin)",
+			"Lengua (Braised beef tongue) +$2-$4",
+			"Shrimp or fish +$2-$4"
+		]
 	}
 }
 
