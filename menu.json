@@ -436,23 +436,46 @@
 			"Banana with Chocolate and Peanut Butter"
 		]
 	},
+	"non_alcoholics": {
+		"title": "Bebidas (Non-alcoholic Beverages)",
+		"items": [
+			"Referescos (Sodas) $2",
+			"Pina Colada - Sm. $3, Lg. $6",
+			"Chocolate (Mexican Hot Chocolate)"
+		]
+	},
+	"juices": {
+		"title": "Jugo Naturales (Natural Juices)",
+		"blurb": "Sm. $4, Lg. $7",
+		"items": [
+			[ "Verde", "Green apples, spinach, parsley, cucumber, celery, ginger, lime and honey" ],
+			[ "Rojo", "Beets, grapefruit, apples, parsley, ginger, lime and honey" ],
+			[ "Vampiro", "Beets, oranges, carrots and celery" ],
+			[ "Tropical", "Oranges, mango, strawberry and banana" ],
+			[ "La Catrina", "Oranges, oats, prickly pear, apples, pineapple, parsley, ginger, lime and honey" ],
+			[ "Antioxidante", "Pineapple, strawberries, blue berries and carrots" ],
+			[ "Mexicano", "Prickly pear, pineapple, green apples, kiwi, celery, lime and honey" ],
+			[ "Frescura", "Watermelon, coconut water, lime, honey and mint" ],
+			[ "Energetico", "Strawberries, mango, kiwi and pineapple" ]
+		]
+	},
 	"meats": {
 		"title": "Carnes (Meats)",
 		"blurb": "For choice of meat, refer to the following list below. Ask about our vegetarian options.",
 		"items": [
-			[ "Carnes Asada", "(Diced grilled steak)"],
-			[ "Carnitas", "(Mexican style pulled pork)"],
-			[ "Pollo", "(Shredded chicken)"],
-			[ "Tinga de Pollo", "(Shredded chicken cooked in tomatoes, onions and chipotle chile sauce)"],
-			[ "Pechuga", "(Grilled chicken) +$2-$4"],
-			[ "Chorizo", "(Mexican pork sausage )"],
-			[ "Maciza", "(Lean braised pork)"],
-			[ "Campechanos", "(Mix of beef and pork)"],
-			[ "Carne Enchilada", "(Pork marinated with spices and chilies)"],
-			[ "Al Pastor", "(Carne enchilada with pineapples)"],
-			[ "Suadero", "(Beef brisket)"],
-			[ "Cueritos", "(Strips of pig skin)"],
-			[ "Lengua", "(Braised beef tongue) +$2-$4"],
+			[ "Carnes Asada", "(Diced grilled steak)" ],
+			[ "Carnitas", "(Mexican style pulled pork)" ],
+			[ "Pollo", "(Shredded chicken)" ],
+			[ "Tinga de Pollo", "(Shredded chicken cooked in tomatoes, onions and chipotle chile sauce)" ],
+			[ "Pechuga", "(Grilled chicken) +$2-$4" ],
+			[ "Chorizo", "(Mexican pork sausage )" ],
+			[ "Maciza", "(Lean braised pork)" ],
+			[ "Campechanos", "(Mix of beef and pork)" ],
+			[ "Carne Enchilada", "(Pork marinated with spices and chilies)" ],
+			[ "Al Pastor", "(Carne enchilada with pineapples)" ],
+			[ "Suadero", "(Beef brisket)" ],
+			[ "Cueritos", "(Strips of pig skin)" ],
+			[ "Lengua", "(Braised beef tongue) +$2-$4" ],
 			[ "Shrimp or fish", "+$2-$4" ]
 		]
 	}
