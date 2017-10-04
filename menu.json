@@ -413,24 +413,47 @@
 			}
 		]
 	},
+	"fresh_waters": {
+		"title": "Aguas Frescas (Fresh Waters)",
+		"blurb": "Sm. $2, Lg. $4",
+		"items": [
+			[ "Horchata", "(Sweet cinnamon rice water)" ],
+			[ "Tamarindo", "(Sweet and sour tamarind fruit water)" ],
+			[ "Jamaica", "(Hibiscus blossoms water)" ],
+			[ "Limonada", "(Fresh limeade)" ]
+		]
+	},
+	"milkshakes": {
+		"title": "Licuados (Milkshakes)",
+		"blurb": "Sm. $4, Lg. $7",
+		"items": [
+			"Strawberry",
+			"Banana",
+			"Chocolate",
+			"Passion Fruit",
+			"Mamey",
+			"Strawberry or Banana or Chocolate",
+			"Banana with Chocolate and Peanut Butter"
+		]
+	},
 	"meats": {
-		"title": "Carnes (Meats",
+		"title": "Carnes (Meats)",
 		"blurb": "For choice of meat, refer to the following list below. Ask about our vegetarian options.",
 		"items": [
-			"Carnes Asada (Diced grilled steak)",
-			"Carnitas (Mexican style pulled pork)",
-			"Pollo (Shredded chicken)",
-			"Tinga de Pollo (Shredded chicken cooked in tomatoes, onions and chipotle chile sauce)",
-			"Pechuga (Grilled chicken) +$2-$4",
-			"Chorizo (Mexican pork sausage )",
-			"Maciza (Lean braised pork)",
-			"Campechanos (Mix of beef and pork)",
-			"Carne Enchilada (Pork marinated with spices and chilies)",
-			"Al Pastor (Carne enchilada with pineapples)",
-			"Suadero (Beef brisket)",
-			"Cueritos (Strips of pig skin)",
-			"Lengua (Braised beef tongue) +$2-$4",
-			"Shrimp or fish +$2-$4"
+			[ "Carnes Asada", "(Diced grilled steak)"],
+			[ "Carnitas", "(Mexican style pulled pork)"],
+			[ "Pollo", "(Shredded chicken)"],
+			[ "Tinga de Pollo", "(Shredded chicken cooked in tomatoes, onions and chipotle chile sauce)"],
+			[ "Pechuga", "(Grilled chicken) +$2-$4"],
+			[ "Chorizo", "(Mexican pork sausage )"],
+			[ "Maciza", "(Lean braised pork)"],
+			[ "Campechanos", "(Mix of beef and pork)"],
+			[ "Carne Enchilada", "(Pork marinated with spices and chilies)"],
+			[ "Al Pastor", "(Carne enchilada with pineapples)"],
+			[ "Suadero", "(Beef brisket)"],
+			[ "Cueritos", "(Strips of pig skin)"],
+			[ "Lengua", "(Braised beef tongue) +$2-$4"],
+			[ "Shrimp or fish", "+$2-$4" ]
 		]
 	}
 }
