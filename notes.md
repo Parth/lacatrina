@@ -17,13 +17,13 @@ Let's begin
 
 * Let's look at location: 
 	* It's barren, but I think you just haven't gotten to it, so let's just flesh out some details now:
-		* Upon getting to the page, just show a card that has a link to their address. Make it a google map link, so different platforms just handle it in a smart way. Or use geo:// whatever, just make it nice.
+		* ~~Upon getting to the page, just show a card that has a link to their address. Make it a google map link, so different platforms just handle it in a smart way. Or use geo:// whatever, just make it nice.~~
 		* In this card let's throw in the phone number too.
-		* Then let's have the map, just so they see where the thing is (so this is done already)
-		* Then let's have a picture of the store front. And a lorem ipsum blurb to the right of it. (They'll talk a bit about the history of their store here)
-		* Then let's add a picture of the staff, and another text blurb to the right of it. (again you can use a placeholder for now).
+		* ~~Then let's have the map, just so they see where the thing is (so this is done already)~~
+		* ~~Then let's have a picture of the store front. And a lorem ipsum blurb to the right of it. (They'll talk a bit about the history of their store here)~~
+		* ~~Then let's add a picture of the staff, and another text blurb to the right of it. (again you can use a placeholder for now).~~
 
-* Order is just a link, this is fine. 
+* ~~Order is just a link, this is fine.~~
 
 * Let me look at the footer:
 	* Okay so last thing, is that every page needs a card or a footer at the bottom, that quickly gives them the address and phone number.
