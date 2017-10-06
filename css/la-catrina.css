@@ -17,8 +17,8 @@
 	margin: 0;
 }
 
-.map-outer {
-	max-width: 1000px !important;
+.map-outer, iframe {
+	width:100% !important;
 	max-height: 650px !important;
 	margin: auto;
 }
