@@ -107,7 +107,7 @@
 		$.getJSON('menu.json', function(data) { 
 			menuData = data;
 			//alert(data.classics.items.length);
-			$.each([data.classics, data.sides], function(index, value) {
+			$.each([data.classics, data.seafood, data.soups_salads, data.platters, data.shared_or_not, data.sides], function(index, value) {
 				$("#menu").append("<h3>" + value.title + "</h3>");
 				for (var i = 0; i < value.items.length; i++) {
 					var prices = $('<div class="col s12 m4 right-align"></div>');
