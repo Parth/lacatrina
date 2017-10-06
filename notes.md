@@ -10,7 +10,7 @@ Let's begin
 	* Lot's of tacos, let me look at the json lol. 
 	* Interesting you're trying to keep the structure of the menu, that's clever.
 	* I wouldn't have bothered, but this is def good.
-	* So to each menu item, let's add a link that says "Order now on Grubhub!" or something like that. Just so it explains a bit why the links go to grubhub. Just a bit more reinfocement.
+	* ~~So to each menu item, let's add a link that says "Order now on Grubhub!" or something like that. Just so it explains a bit why the links go to grubhub. Just a bit more reinfocement.~~
 
 * ~~So on the menubar la catrina is way to the left, looks a bit strange. But this is a #tweek.~~
 	* I think we can remove "Home", and I would change "La Catrina" to be home.
