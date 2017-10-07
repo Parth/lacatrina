@@ -15,15 +15,31 @@
 				<div class="col s12 m6 center-align">
 					<h1>La Catrina</h1>
 					<div class="divider"></div>
-					<div class="card-panel white">
-						<h3><a href="/menu.html">Menu</a></h3>
-					</div>
-					<div class="card-panel white">
-						<h3><a href="/location.html">Location</a></h3>
-					</div>
-					<div class="card-panel white">
-						<h3><a href="#">Order</a></h3>
-					</div>
+
+					<a href="/menu.html">
+						<div class="card-panel card-pink">
+							<i class="medium material-icons">restaurant_menu</i>
+							<h3>Menu</h3>
+						</div>
+					</a>
+					<a href="/location.html">
+						<div class="card-panel card-pink">
+							<i class="medium material-icons">place</i>
+							<h3>Location</h3>
+						</div>
+					</a>
+					<a href="tel:+1(732)-628-0451">
+						<div class="card-panel card-pink">
+							<i class="medium material-icons">phone</i>
+							<h3>Call</h3>
+						</div>
+					</a>
+					<a href="https://grubhub.com">
+						<div class="card-panel card-pink">
+							<i class="medium material-icons">arrow_forward</i>
+							<h3>Order</h3>
+						</div>
+					</a>
 				</div>
 				<div class="col s12 m6">
 					<!--<div class="grid">
@@ -45,44 +61,51 @@
 					</div>-->
 					<div class="grid">
 					<div class="row masonry">
-						<div class="col s12 m3 gi">
-							<img src="/img/placeholder-256x256.png"/>
+							<!--<img width="256" src="/img/tacos.jpg"/>
+							<img width="256" src="/img/taco-salad.jpg"/>
+							<img width="256" src="/img/empanadas.jpg"/>
+							<img width="515" src="/img/tacos.jpg"/>-->
+						<div class="col s12 m4 gi">
+							<img src="/img/taco-salad.jpg"/>
 						</div>
-						<div class="col s12 m3 gi">
-							<img src="/img/placeholder-256x256.png"/>
+						<div class="col s12 m4 gi">
+							<img src="/img/empanadas.jpg"/>
 						</div>
-						<div class="col s12 m3 gi">
-							<img src="/img/placeholder-256x256.png"/>
+						<div class="col s12 m4 gi">
+							<img src="/img/tacos.jpg"/>
 						</div>
-						<div class="col s12 m3 gi">
-							<img src="/img/placeholder-256x256.png"/>
-						</div>
-					</div>
-					<div class="row masonry">
+
 						<div class="col s12 m6 gi">
-							<img src="/img/placeholder-512x512.png"/>
+							<img src="/img/ceviche-peruano.jpg"/>
 						</div>
-						<div class="col s12 m3 gi">
-							<img src="/img/placeholder-256x512.png"/>
+						<div class="col s12 m6 gi">
+							<img src="/img/coctel-de-camaron.jpg"/>
 						</div>
-						<div class="col s12 m3 gi">
-							<img src="/img/placeholder-256x512.png"/>
+
+						<div class="col s12 m6 xl3 gi">
+							<img src="/img/perros-calientes.jpg"/>
 						</div>
-					</div>
-					<div class="row masonry">
-						<div class="col s12 m3 gi">
-							<img src="/img/placeholder-256x256.png"/>
+						<div class="col s12 m6 xl3 gi">
+							<img src="/img/el-botenero.jpg"/>
 						</div>
-						<div class="col s12 m3 gi">
-							<img src="/img/placeholder-256x256.png"/>
+						<div class="col s12 m6 xl3 gi">
+							<img src="/img/empanadas.jpg"/>
 						</div>
-						<div class="col s12 m3 gi">
-							<img src="/img/placeholder-256x256.png"/>
-						</div>
-						<div class="col s12 m3 gi">
-							<img src="/img/placeholder-256x256.png"/>
+						<div class="col s12 m6 xl3 gi">
+							<img src="/img/tacos.jpg"/>
 						</div>
 					</div>
+					<!--<div class="row masonry">
+						<div class="col s12 m6 gi">
+							<img src="/img/tacos.jpg"/>
+						</div>
+						<div class="col s12 m3 gi">
+							<img src="/img/tacos.jpg"/>
+						</div>
+						<div class="col s12 m3 gi">
+							<img src="/img/tacos.jpg"/>
+						</div>
+					</div>-->
 					</div>
 				</div>
 			</div>
@@ -122,13 +145,16 @@
 		<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
 		<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
-		<!--<script>
-		$('.grid').masonry({
-		  // options
-		    itemSelector: '.gi'
-			  // , columnWidth: 260
-			  });
-		</script>-->
+		<script>
+		/*$(document).ready(function() {
+			$('.grid').masonry({
+				itemSelector: '.gi'
+				//,columnWidth: 256
+			});
+
+			//$(".row.masonry .col").css("padding", "0");
+		});*/
+		</script>
 	</body>
 </html>
 
