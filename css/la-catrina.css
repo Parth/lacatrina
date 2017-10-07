@@ -1,12 +1,34 @@
 
+body, footer {
+	background: #8800cc !important; /*#cc66ff;*/
+	color: #ffd633;
+}
+
+footer {
+	background: #7700b3 !important;
+}
+
+nav, .card-pink {
+	background: #ff66cc !important;
+}
+
+a {
+	color: #ffd633;
+}
+
 /*.grid-item {
 	width: 33.33%;
 }
 .grid-item-width2 {
 	width: 66.66%;
 }*/
+.row.masonry .col {
+	margin: 0 !important;
+	padding: 0 !important;
+}
 .grid-item img {
-	width: 100%
+	width: 100%;
+	height: 100% !important;
 }
 
 .masonry img {
