@@ -1,15 +1,15 @@
 Here are some random thoughts as I run the app.
 Let's begin
 
-* Okay so main page looks okay, but let's start pulling those placeholder images from our file.
-	* Let's see if it's responsive 
-	* It is indeed, perhaps let's change the threshold for when that change happens. But this is a #tweek let's save these for later.
+* ~~Okay so main page looks okay, but let's start pulling those placeholder images from our file.~~
+	* ~~Let's see if it's responsive.~~
+	* ~~It is indeed, perhaps let's change the threshold for when that change happens. But this is a #tweek let's save these for later.~~
 
 * Okay let's checkout the menu.
 	* Pictures should all be the same size. Unless you're trying to do something fancy, but this looks a bit funny.
-	* Lot's of tacos, let me look at the json lol. 
-	* Interesting you're trying to keep the structure of the menu, that's clever.
-	* I wouldn't have bothered, but this is def good.
+	* ~~Lot's of tacos, let me look at the json lol.~~
+	* ~~Interesting you're trying to keep the structure of the menu, that's clever.~~
+	* ~~I wouldn't have bothered, but this is def good.~~
 	* ~~So to each menu item, let's add a link that says "Order now on Grubhub!" or something like that. Just so it explains a bit why the links go to grubhub. Just a bit more reinfocement.~~
 
 * ~~So on the menubar la catrina is way to the left, looks a bit strange. But this is a #tweek.~~
