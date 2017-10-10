@@ -13,7 +13,7 @@ Let's begin
 	* ~~So to each menu item, let's add a link that says "Order now on Grubhub!" or something like that. Just so it explains a bit why the links go to grubhub. Just a bit more reinfocement.~~
 
 * ~~So on the menubar la catrina is way to the left, looks a bit strange. But this is a #tweek.~~
-	* I think we can remove "Home", and I would change "La Catrina" to be home.
+	* ~~I think we can remove "Home", and I would change "La Catrina" to be home.~~
 
 * Let's look at location: 
 	* It's barren, but I think you just haven't gotten to it, so let's just flesh out some details now:
