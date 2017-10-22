@@ -1,4 +1,8 @@
 
+#homeHeader {
+	font-size: 8rem;
+}
+
 body, footer {
 	background: #ffffff !important; /*#cc66ff;*/
 	color: #000000;
