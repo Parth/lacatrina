@@ -19,6 +19,9 @@ nav, .card-pink {
 a {
 	color: #ffd633;
 }
+#menu a {
+	color: #ffab40;
+}
 
 /*.grid-item {
 	width: 33.33%;
