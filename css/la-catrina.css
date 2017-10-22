@@ -1,7 +1,7 @@
 
 body, footer {
-	background: #8800cc !important; /*#cc66ff;*/
-	color: #ffd633;
+	background: #ffffff !important; /*#cc66ff;*/
+	color: #000000;
 }
 
 footer {
@@ -9,7 +9,7 @@ footer {
 }
 
 nav, .card-pink {
-	background: #ff66cc !important;
+	background: #000000 !important;
 }
 
 a {
