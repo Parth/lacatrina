@@ -24,7 +24,7 @@
 			{
 				"item": "Quesadilla Azteca",
 				"desc": "Choice of meat, quesillo, lettuce, tomatoes, onions, sour cream, queso fresco and avocado stuffed in a fresh made corn tortilla",
-				"img": "missing.jpg",
+				"img": "quesadilla-azteca.jpg",
 				"price": [ "$8.45", "Add egg +$1.50" ]
 			},
 			{
@@ -72,13 +72,13 @@
 			{
 				"item": "Burrito",
 				"desc": "Choice of meat, mexican rice, black beans, lettuce, tomatoes, onions, sour cream, queso fresco and avocado",
-				"img": "missing.jpg",
+				"img": "burrito.jpg",
 				"price": [ "$7.95" ]
 			},
 			{
 				"item": "Chimichanga",
 				"desc": "Fried burrito filled with choice of meat, mexican rice, black beans, lettuce, tomatoes, onions, sour cream, queso fresco and avocado",
-				"img": "missing.jpg",
+				"img": "chimichanga.jpg",
 				"price": [ "$8.45" ]
 			},
 			{
